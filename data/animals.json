@@ -128,6 +128,16 @@
         "playful"
       ],
       "id": "12"
+    },
+    {
+      "name": "Fluffy",
+      "species": "Arctic Fox",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
